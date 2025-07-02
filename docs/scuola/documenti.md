@@ -48,14 +48,16 @@ scolastica.
 Il documento, che viene compilato e aggiornato dalle scuole attraverso
 la piattaforma SNV di INVALSI, è articolato in tre sezioni principali:
 
-Contesto e risorse -- Analizza le caratteristiche del territorio, della
+*Contesto e risorse*  
+Analizza le caratteristiche del territorio, della
 popolazione studentesca e delle risorse umane e materiali disponibili.
 
-Esiti degli studenti -- Valuta il rendimento scolastico, il successo
+*Esiti degli studenti*
+Valuta il rendimento scolastico, il successo
 formativo e i risultati delle prove INVALSI.
 
-Processi educativi e organizzativi -- Esamina le pratiche didattiche,
-l'inclusione, l'orientamento e la governance della scuola.
+*Processi educativi e organizzativi*
+Esamina le pratiche didattiche, l'inclusione, l'orientamento e la governance della scuola.
 
 Il RAV non è solo uno strumento di valutazione interna, ma è anche reso
 pubblico sul portale "Scuola in Chiaro", permettendo a famiglie e
