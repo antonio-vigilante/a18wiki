@@ -57,7 +57,7 @@ dell'Offerta Formativa (PTOF), oltre a regolamenti interni, criteri
 generali per l'assegnazione degli insegnanti alle classi e
 l'organizzazione di attività extracurricolari.
 
-## I Dipartimenti 
+## I Dipartimenti Disciplinari
 
 I Dipartimenti Disciplinari sono articolazioni del Collegio dei Docenti
 e hanno il compito di coordinare la programmazione didattica delle
