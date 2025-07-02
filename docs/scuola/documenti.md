@@ -101,26 +101,33 @@ I docenti sono tenuti a stilare una *programmazione annuale*, chiamata
 anche *piano di lavoro*. Si tratta del documento attraverso il quale il
 docente pianifica il lavoro dell'anno in una classe. In genere viene
 stilato seguendo un modello preparato dalla scuola e contiene i seguenti
-punti:\
-*Presentazione della classe*\
-Un breve profilo della classe, con punti di forza e criticità.\
-*Obiettivi generali e specifici*\
+punti:
+
+*Presentazione della classe*
+Un breve profilo della classe, con punti di forza e criticità.
+
+*Obiettivi generali e specifici*
 Sono definiti in relazione alle Indicazioni nazionali e riguardano sia
-le conoscenze che le competenze da sviluppare.\
-*Contenuti disciplinari*\
+le conoscenze che le competenze da sviluppare.
+
+*Contenuti disciplinari*
 Viene specificato il programma di studio, suddiviso in unità di
-apprendimento o moduli.\
-*Metodologie didattiche*\
+apprendimento o moduli.
+
+*Metodologie didattiche*
 I metodi e le strategie di insegnamento che verranno utilizzati (lezione
 frontale, lavoro di gruppo, didattica laboratoriale, apprendimento per
-scoperta, ecc.).\
-*Educazione Civica*\
+scoperta, ecc.).
+
+*Educazione Civica*
 Viene indicato il contributo della disciplina alla progettazione di
-Educazione Civica stabilita dal Consiglio di classe.\
-*Attività interdisciplinari e progetti*\
+Educazione Civica stabilita dal Consiglio di classe.
+
+*Attività interdisciplinari e progetti*
 Si pianificano attività comuni tra più discipline, progetti educativi,
-uscite didattiche o laboratori.\
-*Valutazione*\
+uscite didattiche o laboratori.
+
+*Valutazione*
 Sono indicate le modalità di verifica e valutazione del percorso
 formativo, come prove scritte, orali, pratiche, osservazioni in classe,
 autovalutazione e valutazione formativa.
