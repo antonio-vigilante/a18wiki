@@ -17,6 +17,6 @@ stesso paragrafo, per indicare le diverse figure del mondo scolastico.
 
 Il testo è rilasciato con licenza Creative Commons BY-SA. Ogni
 osservazione per migliorarla è accolta col massimo favore; è possibile
-comunicarla via mail all'indirizzo antonio.vigilante2\@unisi.it
+comunicarla via mail all'indirizzo antonio.vigilante2@unisi.it
 
 Siena, febbraio 2025
